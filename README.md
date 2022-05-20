@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studin in college PUC Minas (São Gabriel)
 - 🌱 I’m currently learning Node.JS
-- 🤔 I’m looking for help with better way to use SQL Server
+- 🤔 I’m looking for better way to use SQL Server
 - 📫 How to reach me: Artur.oliveiraPrado@gmail.com
 - 😄 Pronouns: ele/dele _ him/he<br>
 currently need a job
