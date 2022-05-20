@@ -1,4 +1,4 @@
-### Opa bom de mais? 👋
+### Opa, bom de mais? 👋
 
 - 🔭 I’m currently studin in college PUC Minas (São Gabriel)
 - 🌱 I’m currently learning Node.JS
