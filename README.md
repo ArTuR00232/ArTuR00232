@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Node.JS
 - 📫 How to reach me: Artur.oliveiraPrado@gmail.com
 - 😄 Pronouns: ele/dele _ him/he<br>
-currently need a job
 <div display: flex, align= "center">
   <a href="https://github.com/ArTuR00232">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArTuR00232&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
