@@ -1,7 +1,7 @@
 ### Opa, bom de mais? 👋
 
 - 🔭 I’m currently studin in college PUC Minas (São Gabriel)
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m currently learning Flash and React
 - 📫 How to reach me: Artur.oliveiraPrado@gmail.com
 - 😄 Pronouns: ele/dele _ him/he<br>
 <div display: flex, align= "center">
