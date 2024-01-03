@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently studin in college PUC Minas (São Gabriel)
 - 🌱 I’m currently learning Flash and React
+- 📶 linkedin https://www.linkedin.com/in/artur-oliveira-b80053223/
 - 📫 How to reach me: Artur.oliveiraPrado@gmail.com
 - 😄 Pronouns: ele/dele _ him/he<br>
 <div display: flex, align= "center">
