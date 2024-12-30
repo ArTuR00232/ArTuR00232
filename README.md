@@ -1,4 +1,4 @@
-### Opa, bom de mais? 👋
+### Hello, how are you? 👋
 
 - 🌱 I’m currently thinking about new projects
 - 📶 linkedin https://www.linkedin.com/in/artur-oliveira-b80053223/
